@@ -25,4 +25,4 @@ Join our Discord server: https://discord.gg/invite/krypt
 </p>
 
 ## Features
-Features can be found in the `features.txt` file.
+Features can be found in the `features.txt` file or https://raw.githubusercontent.com/0nly6Ex/krypt/main/features.txt.
