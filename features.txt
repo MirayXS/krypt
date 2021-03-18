@@ -1,0 +1,160 @@
+Security Option
+[Player]
+Fly
+Speed
+Noclip
+GodBullet+GodBlock
+Naked
+AutoStomp
+AutoBLock
+Rejoin
+Anti Bag
+Anonymous
+Anti Grab
+Bike Fly
+Headless
+Fog
+Anti Flashbang
+Silent Block
+Unjail
+Unban
+
+[Combat]
+Anti Stomp
+Grenade All
+Bag All
+Katana
+Free Fists
+Fist Reach
+Tool Reach
+Auto Pick
+Split Grenade
+Silent Aim
+Anti Aim
+Aimbot
+AntiSlow
+Auto Eat
+Tornado
+Fly Gun
+Skinny Unban
+
+[Teleports]
+Bank
+Boxing
+Police
+Admin
+Sewers
+Shoe
+Hospital
+Phone
+Taco
+Casino
+UFO
+Fire
+Gas
+Church
+Gun 1
+Gun 2
+
+[Auto Buys]
+Everything in the game
+
+[Autofarm]
+Fist Farm
+Fast Farm
+Shotgun Farm
+P90 Farm
+Auto Muscle
+Auto Box
+
+[Cash]
+Cash Dropping Toggle
+Cash Drop Amount
+Troll Cash
+Cash ESP
+Bring Cash
+Cash Scaffold
+Cash Float
+Fling Cash
+Cash Fling 
+Destroy Cash
+Spin Cash
+
+[Featured]
+RPG Ride
+RPG Control
+Burger Galaxy
+Burger Shield
+Chicken Galaxy
+Galaxy
+Super Taser
+Auto Control Player
+Select Control Player
+Autofarm Fist Lock
+Deflect RPGS
+Kill Yourself
+Kill Godmode Players
+Fake moderator menu
+Item Spammer
+Grenade Galaxy
+Grenade Mouse
+Kill All
+Arrest All
+Fast RPG
+Super Tool Reach
+Super Gun
+
+[Animations]
+Astronaut
+Bubbly
+Cartoony
+Elder
+Knight
+Levitation
+Mage
+Ninja
+Pirate
+Robot
+Styish
+Superhero
+Toy
+Vampire
+Werewolf
+Zombie
+
+[Extras]
+Play All SOunds
+Mask Spam
+Fling Aura
+Auto Reload
+Big Others
+No recoil
+Dick Bat
+Dick LMG
+Force Drop
+Mask
+Invisible mask
+Anti Equipment
+Force Reset
+Free Korblox
+Tools while jailed
+Equip All
+Mask Names
+Chatlogs
+Crash Server
+
+[Target]
+Force Kill 
+Arrest
+Lock
+Unlock
+Taser Lock
+Cash
+Info
+Grenade Lock
+RPG Lock
+GoTo
+Bag
+Spectate
+UnSpectate
+Attach Fists
