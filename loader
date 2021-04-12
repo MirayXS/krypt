@@ -1,3 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/main.lua'))()
 wait(1)
-game:HttpGet("https://6exdev.cf/kryptsystems/execution.php?user="..game.Players.LocalPlayer.Name)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/synapse.lua'))()
