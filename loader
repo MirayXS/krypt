@@ -1,5 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/synapse.lua'))()
-wait()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/main.lua'))()
-
-
