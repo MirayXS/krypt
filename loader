@@ -1,13 +1,1 @@
---// Credits to 6Ex/Ryan to owning the script
---// Credits to Ruzzel and Stefan for big help, couldnt have done this without them
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/control.lua"))()
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/synapse.lua"))()
-wait()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/thingy.lua"))()
-wait()
-
-
-wait()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/control.lua"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/synapse.lua"))()wait()loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/thingy.lua"))()wait()wait()
