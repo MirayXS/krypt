@@ -5,3 +5,6 @@ wait()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/thingy.lua"))()
 wait()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/control.lua"))()
+wait()
