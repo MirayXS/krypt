@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.6exdev.com/krypt"))()
+loadstring(game:HttpGet("http://6exdev.com/krypt/source.lua"))()
