@@ -1,0 +1,167 @@
+[AUTOMATIC]
+Fly - X
+Superhuman - Z
+Toggle Gui - V
+Anti Ban - Notification
+Anti Display Name
+Anti-Mod
+
+[Player]
+Ban Protection
+Naked
+Noclip
+Auto Stomp
+Auto Block
+Rejoin
+Anti Bag
+Anti Grab
+Anonymous
+Bike Fly
+Headless
+Remove Fog
+Anti Flashbang
+Free Animations Gamepass
+Silent Block
+UnJail
+
+[Combat]
+Full God Mode (No Melee)
+Skinny God Mode (Cant use weapons)
+Anti Stomp
+Grenade All
+Bag All
+Katana
+Free Fists
+Fist Reach
+Tool Reach
+Autopick
+Split Grenade
+Auto Pick
+Silent Aim 
+Unlimited Health
+Anti Aim 
+Aimbot
+Anti Slow
+Auto Eat
+Tornado
+Fly Gun
+
+[Teleports]
+Bank
+Boxing Place
+Police Station
+Admin Base
+Sewers
+Shoe Store
+Hospital
+Phone Store
+Taco Shack
+Casino
+UFO
+Fire Station
+Gas Station
+Church
+Gun Store 1
+Gun Store 2
+
+[AutoBuy]
+Contains a GUI, which contains all items in game that can be purchased
+
+[AutoFarm]
+FistFarm
+Fast Farm 
+Shotgun Farm 
+P90 Farm 
+Auto Muscle 
+Auto Box 
+
+[Cash]
+Fast Drop Cash + Custom Amount
+Custom Amount Troll Cash
+Cash ESP
+Bring Cash
+Cash Scaffold
+Cash Float
+Fling Cash
+Cash Fling
+Destroy Cash
+Spin Cash
+
+[Featured]
+RPG Ride
+RPG Control
+Burger Galaxy
+Burger Shield
+Chicken Galaxy
+Galaxy
+Super Taser
+Auto Control Player
+Select Control Player
+Autofarm Fist Lock
+Deflect RPGS
+Kill Yourself
+Kill God Moded Players
+Fake Mod Menu
+Item Spammer
+Grenade Galaxy
+Grenade Mouse
+Kill All
+Arrest All
+Fast RPG
+Super Tool Reach
+Super Gun
+
+[Animations]
+Astronaut
+Bubbly
+Cartoony
+Elder
+Knight
+Levitation
+Mage
+Ninja 
+Pirate
+Robot
+Stylish
+Superhero
+Toy
+Vampire
+Werewolf
+Zombie
+
+[Extras]
+Play All Sounds
+Mask Spam
+Fling Aura 
+Auto Reload
+Big Others 
+No Recoil 
+Dick Bat
+Dick LMG
+Force Drop
+Mask
+Invisible Mask
+Anti Equipment
+Force Reset
+Free KORBLOX
+Tools while cuffed
+Equip All Tools
+Mask Names
+Chatlogs
+Crash Server 
+
+[Target]
+Force Kill
+Arrest
+Fist Lock
+Fist Unlock
+Taser Lock
+Cash
+Info
+Grenade Lock
+RPG Lock
+GoTo
+Bag
+Spectate
+UnSpectate
+Attach Fists
