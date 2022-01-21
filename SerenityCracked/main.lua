@@ -1,7 +1,7 @@
 -- 6Ex still on top LMFAO
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/SerenityCracked/serenity.lua"))("SERENITY > ALL") -- the serenity > all thing is mad cap LMAO
-
+wait(6.9) -- thats how long their shitty script takes to load :troll:
 -- the crack part (decided to keep it open source so you can see how easy it is to crack)
 local targetgui = nil
 local function getstringlength(string)
