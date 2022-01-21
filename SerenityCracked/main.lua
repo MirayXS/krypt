@@ -1,7 +1,7 @@
 -- 6Ex still on top LMFAO
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/SerenityCracked/serenity.lua"))("SERENITY > ALL") -- the serenity > all thing is mad cap LMAO
-wait(6.9) -- thats how long their shitty script takes to load :troll:
+wait(2.9) -- thats how long their shitty script takes to load :troll:
 -- the crack part (decided to keep it open source so you can see how easy it is to crack)
 local targetgui = nil
 local function getstringlength(string)
@@ -22,7 +22,7 @@ wait(3)
 for i = 1, 50 do
     targetgui.Shadow.Main.GetKey.Text = "6Ex#6666"
 targetgui.Shadow.Main.GetKey.Text = "6Ex#6666"
-argetgui.Shadow.Main.Submit.Text = "6Ex#6666"
+targetgui.Shadow.Main.Submit.Text = "6Ex#6666"
 targetgui.Shadow.Main.KeyFrame.Key.Text = "GNUYm8QzHub"
 connection = targetgui.Shadow.Main.Submit.MouseButton1Click
 firesignal(connection)
