@@ -1,6 +1,6 @@
 -- 6Ex still on top LMFAO
 
-loadstring("https://raw.githubusercontent.com/0nly6Ex/krypt/main/SerenityCracked/serenity.lua")("SERENITY > ALL") -- the serenity > all thing is mad cap LMAO
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/krypt/main/SerenityCracked/serenity.lua"))("SERENITY > ALL") -- the serenity > all thing is mad cap LMAO
 
 -- the crack part (decided to keep it open source so you can see how easy it is to crack)
 local targetgui = nil
